@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/eukrissongahid/Downloads/android-advanced-master/FragmentCommunicate/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/9a5c599d6b9deb9fb7360248e734c38d/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
